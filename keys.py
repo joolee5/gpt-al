@@ -1,3 +1,3 @@
 
-API_KEY = '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'
-ORG_KEY = 'org-OYE2TsnX979urRgx67Slp375'
+API_KEY = ''
+ORG_KEY = ''
